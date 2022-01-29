@@ -1,7 +1,8 @@
 # Linux-Basic-Commands
-
-<img src="linux.png" height="50" align="center">
-
+<p align="center">
+<img src="linux.png" height="100">
+</p>
+  
 | Commands | Use | Useful flags  | Use
 | :------------------ | :------------------ | :------------------ | :------------------ |
 | `clear` | Clears the screen of all previous content |

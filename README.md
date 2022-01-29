@@ -1,6 +1,6 @@
 # Linux-Basic-Commands
 
-![linux_PNG1](https://user-images.githubusercontent.com/69317200/151653189-39ba3004-22d6-4865-b2d9-6d2499bf705e.png = 100x20)
+![linux_PNG1](https://user-images.githubusercontent.com/69317200/151653189-39ba3004-22d6-4865-b2d9-6d2499bf705e.png)
 
 
 | Commands | Use | Useful flags  | Use

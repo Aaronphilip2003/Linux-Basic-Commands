@@ -44,5 +44,6 @@
 | | | `cp -v` | Verbose can be used with many commands and it just prints informative messages (shows the status)
 
 
-**Note: We can use the '|' (pipe) to do multuple operations at once \n**
+**Note: We can use the '|' (pipe) to do multuple operations at once **
+<br>
 **eg. search and sort - `grep aa file1.txt | sort**

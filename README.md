@@ -1,6 +1,6 @@
 # Linux-Basic-Commands
 <p align="center">
-<img src="linux.png" height="100">
+<img src="linux.png" height="150">
 </p>
   
 | Commands | Use | Useful flags  | Use

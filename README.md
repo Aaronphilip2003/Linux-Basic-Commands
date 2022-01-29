@@ -1,6 +1,6 @@
 # Linux-Basic-Commands
 
-<img src="linux.png">
+<img src="linux.png" height=50%>
 
 
 | Commands | Use | Useful flags  | Use

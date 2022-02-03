@@ -2,7 +2,10 @@
 <p align="center">
 <img src="linux.png" height="151">
 </p>
-  
+
+
+ ### Basic List of commands Along with their useful flags
+
 | Commands | Use | Useful flags  | Use
 | :------------------ | :------------------ | :------------------ | :------------------ |
 | `clear` | Clears the screen of all previous content |
@@ -42,8 +45,8 @@
 | `cp [source] [destination]` | Used to copy files and dirextories (by defautlt it copies only files) |
 | | | `cp -R` | Allows us to copy directories **case insensitive**
 | | | `cp -v` | Verbose can be used with many commands and it just prints informative messages (shows the status)
+|`exiftool`| Allows us to view all the details of an image in any format
 
 
-**Note: We can use the '|' (pipe) to do multuple operations at once**
-<br>
-**eg. search and sort - grep aa file1.txt | sort**
+**Note: We can use the '|' (pipe) to do multuple operations at once **
+**eg. search and sort - `grep aa file1.txt | sort`**

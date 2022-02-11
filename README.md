@@ -48,5 +48,5 @@
 |`exiftool`| Allows us to view all the details of an image in any format
 
 
-**Note: We can use the '|' (pipe) to do multuple operations at once **
+**Note: We can use the '|' (pipe) to do multiple operations at once **
 **eg. search and sort - `grep aa file1.txt | sort`**
